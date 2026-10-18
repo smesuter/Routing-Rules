@@ -1,0 +1,17 @@
+#!name=Manus 分流
+#!desc=Manus / Cue 单独分流：可绑定与通用 AI 规则不同的策略（地区）
+#!author=smesuter
+#!homepage=https://github.com/smesuter/quantumult-x-rules
+#!raw-url=https://raw.githubusercontent.com/smesuter/quantumult-x-rules/main/Loon/rule/Manus.list
+#!date=2026-10-18 12:35:00
+#############################################
+# 在 Loon 远程规则中将本规则置于 AI.list 之上，
+# 并为其单独指定策略（地区），即可让 Manus/Cue 走与其它 AI 不同的出口。
+
+# Manus
+DOMAIN-SUFFIX, manus.ai
+DOMAIN-SUFFIX, manus.im
+DOMAIN-SUFFIX, manuscdn.com
+
+# Cue (Manus 个人智能体)
+DOMAIN-SUFFIX, cue.im
