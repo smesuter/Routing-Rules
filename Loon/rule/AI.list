@@ -87,6 +87,7 @@ DOMAIN-SUFFIX, meta.ai
 DOMAIN, auth.meta.com
 DOMAIN-SUFFIX, llama.com
 DOMAIN-SUFFIX, metaaiusercontent.com
+DOMAIN, hatch.metaaivm.com
 DOMAIN-SUFFIX, metaaivm.com
 
 # Muse (Meta)
