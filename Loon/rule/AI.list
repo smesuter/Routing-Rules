@@ -157,3 +157,33 @@ DOMAIN-SUFFIX, groq.com
 # v0 (Vercel)
 DOMAIN-SUFFIX, v0.dev
 DOMAIN-SUFFIX, v0.app
+
+# AWS Quick (Amazon)
+DOMAIN-SUFFIX, quicksight.aws.amazon.com
+DOMAIN-SUFFIX, quicksight.amazonaws.cn
+DOMAIN, quicksight.af-south-1.amazonaws.com
+DOMAIN, quicksight.ap-northeast-1.amazonaws.com
+DOMAIN, quicksight.ap-northeast-2.amazonaws.com
+DOMAIN, quicksight.ap-south-1.amazonaws.com
+DOMAIN, quicksight.ap-southeast-1.amazonaws.com
+DOMAIN, quicksight.ap-southeast-2.amazonaws.com
+DOMAIN, quicksight.ap-southeast-3.amazonaws.com
+DOMAIN, quicksight.ap-southeast-5.amazonaws.com
+DOMAIN, quicksight.ca-central-1.amazonaws.com
+DOMAIN, quicksight.cn-north-1.amazonaws.com.cn
+DOMAIN, quicksight.eu-central-1.amazonaws.com
+DOMAIN, quicksight.eu-central-2.amazonaws.com
+DOMAIN, quicksight.eu-north-1.amazonaws.com
+DOMAIN, quicksight.eu-south-1.amazonaws.com
+DOMAIN, quicksight.eu-south-2.amazonaws.com
+DOMAIN, quicksight.eu-west-1.amazonaws.com
+DOMAIN, quicksight.eu-west-2.amazonaws.com
+DOMAIN, quicksight.eu-west-3.amazonaws.com
+DOMAIN, quicksight.il-central-1.amazonaws.com
+DOMAIN, quicksight.me-central-1.amazonaws.com
+DOMAIN, quicksight.sa-east-1.amazonaws.com
+DOMAIN, quicksight.us-east-1.amazonaws.com
+DOMAIN, quicksight.us-east-2.amazonaws.com
+DOMAIN, quicksight.us-gov-east-1.amazonaws.com
+DOMAIN, quicksight.us-gov-west-1.amazonaws.com
+DOMAIN, quicksight.us-west-2.amazonaws.com
